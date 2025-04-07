@@ -52,12 +52,10 @@
 #     print(i)
 
 # 9. Escribe un programa que use un bucle for para contar cuántas veces aparece el número 30 en la lista [30, 10, 30, 20, 30, 40].
-list = [30, 10, 30, 20, 30, 40]
-counter = 0
-for number in list:
-    if number == 30:
-        counter += 1
-print(counter)
+# lista=[30, 10, 30, 20, 30, 40]
+# for i in range(1):
+#     conteo = lista.count(30)
+#     print(conteo)
 
 # 10. Usa un bucle for para recorrer una lista de nombres y detener el bucle cuando se encuentre el nombre "Brais".
 # lista = ["Arthur", "Brais", "XDDDd","asdgfdsgd"]
