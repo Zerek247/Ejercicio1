@@ -73,12 +73,12 @@
 #     print("ERROR!! no esta entre 10 y 20")
 
 # 10. Escribe un programa que simule un semáforo: solicita al usuario que ingrese un color (rojo, amarillo, verde) y muestra un mensaje indicando si debe detenerse, estar alerta o avanzar.
-semaforo=(input("En que color esta el semaforo? "))
-if semaforo.lower() == "verde":
-    print("Avance")
-elif semaforo.lower() == "amarillo":
-    print("Alerta!")
-elif semaforo.lower() == "rojo":
-    print("DETENGASEEE!!")
-else:
-    print("Ese color no existe")
+# semaforo=(input("En que color esta el semaforo? "))
+# if semaforo.lower() == "verde":
+#     print("Avance")
+# elif semaforo.lower() == "amarillo":
+#     print("Alerta!")
+# elif semaforo.lower() == "rojo":
+#     print("DETENGASEEE!!")
+# else:
+#     print("Ese color no existe")
